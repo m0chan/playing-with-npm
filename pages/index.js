@@ -12,8 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app! - m0chan" />
-        <button onclick="alert(document.cookie)">Alert</button><br><br>
-        <button onclick="cookiebomb()">Cookie bomb</button><br><br>
+        <button onclick="alert(document.cookie)">Alert</button>
+        <button onclick="cookiebomb()">Cookie bomb</button>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
